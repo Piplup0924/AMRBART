@@ -1,0 +1,35 @@
+{
+    "input_ids": "[[0, 14223, 479, 939, 236, 8087, 2156, 53, 939, 33, 10, 4607, 8, 524, 4804, 13137, 98, 939, 524, 2263, 1437, 2, 53226, 50264, 53227, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 12602, 2580, 8792, 154, 5651, 8934, 4, 4046, 9247, 2898, 31932, 21881, 62, 3605, 8, 12254, 4, 590, 7754, 9, 17797, 8, 30967, 1026, 6, 51, 456, 311, 49, 23255, 1173, 2772, 2, 53226, 50264, 53227, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 9154, 213, 124, 7, 14, 86, 6, 84, 27750, 2772, 77, 3442, 5, 30935, 4, 436, 28, 670, 6, 39400, 28, 4406, 8, 21550, 28, 21003, 6, 905, 18, 24569, 5, 8955, 11058, 328, 2, 53226, 50264, 53227, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 772, 365, 212, 6, 1824, 2, 53226, 50264, 53227, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 38, 2854, 19, 5, 1966, 9, 5, 15019, 6135, 6, 5032, 40716, 8792, 62, 4, 318, 997, 269, 606, 6, 38, 74, 101, 7, 28, 30545, 8706, 260, 6, 7, 1744, 84, 184, 8, 4538, 84, 16323, 6, 7, 2504, 5, 28602, 9, 84, 436, 6, 7, 9461, 7, 1032, 7, 5, 744, 5261, 84, 632, 12028, 4, 2, 53226, 50264, 53227, 1], [0, 38, 182, 203, 2813, 38, 56, 57, 2421, 11, 167, 8840, 8, 62, 12557, 3923, 498, 9, 23441, 40064, 1657, 6, 5, 2597, 494, 6, 2086, 127, 471, 8, 25126, 127, 1925, 6, 2198, 22913, 6234, 70, 5, 11058, 14, 1593, 436, 6, 9592, 84, 28021, 28602, 328, 2, 53226, 50264, 53227, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 1336, 2597, 32, 166, 11733, 7, 255, 32728, 877, 1429, 116, 2, 53226, 50264, 53227, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], [0, 1308, 2598, 2286, 35, 2, 53226, 50264, 53227, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]]",
+    "input_tokens": [
+        "<s> oh . i want horses , but i have a kid and am expecting twins so i am broke </s><AMR><mask></AMR><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>",
+        "<s> Fleets bumping fishing boats. Little evil Japanese ghosts stirring up trouble and unrest. With hearts of thieves and arrogant form, they again show their wolfish appearance</s><AMR><mask></AMR><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>",
+        "<s> Never go back to that time, our humiliating appearance when signing the treaties. China be strong, swords be sharp and knives be shining, let's bury the approaching enemies!</s><AMR><mask></AMR><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>",
+        "<s> September 11th, 2010</s><AMR><mask></AMR><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>",
+        "<s> I agree with the analysis of the thread starter, resolutely bump up. If war really comes, I would like to be Hua Mulan, to protect our home and defend our homeland, to spread the prestige of our China, to pledge to fight to the death defending our national dignity.</s><AMR><mask></AMR><pad>",
+        "<s> I very much wish I had been born in those passionate and upsurging times of Mao Zedong, the Long March, losing my head and shedding my blood, completely extinguishing all the enemies that wrong China, spreading our dragon prestige!</s><AMR><mask></AMR><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>",
+        "<s> How Long are We Going to Tolerate Japan?</s><AMR><mask></AMR><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>",
+        "<s> My fellow citizens:</s><AMR><mask></AMR><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>"
+    ],
+    "labels": "[[53227, 1, 1, 1, 1, 1, 1, 1], [53227, 1, 1, 1, 1, 1, 1, 1], [53227, 1, 1, 1, 1, 1, 1, 1], [53227, 1, 1, 1, 1, 1, 1, 1], [53227, 1, 1, 1, 1, 1, 1, 1], [53227, 1, 1, 1, 1, 1, 1, 1], [53227, 1, 1, 1, 1, 1, 1, 1], [53227, 1, 1, 1, 1, 1, 1, 1]]",
+    "labels_tokens": [
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>",
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>",
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>",
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>",
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>",
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>",
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>",
+        "</AMR><pad><pad><pad><pad><pad><pad><pad>"
+    ],
+    "decoder_input_ids": "[[53226, 53227, 1, 1, 1, 1, 1, 1], [53226, 53227, 1, 1, 1, 1, 1, 1], [53226, 53227, 1, 1, 1, 1, 1, 1], [53226, 53227, 1, 1, 1, 1, 1, 1], [53226, 53227, 1, 1, 1, 1, 1, 1], [53226, 53227, 1, 1, 1, 1, 1, 1], [53226, 53227, 1, 1, 1, 1, 1, 1], [53226, 53227, 1, 1, 1, 1, 1, 1]]",
+    "decoder_input_tokens": [
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>",
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>",
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>",
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>",
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>",
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>",
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>",
+        "<AMR></AMR><pad><pad><pad><pad><pad><pad>"
+    ]
+}
